@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1545696467 source:c:\eltyty\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
+1545696468 source:e:\manfi&andrew\eltyty\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
